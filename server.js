@@ -5,7 +5,7 @@ const app = express();
 
 // setting us some local verialbles
 
-const  PORT = 80 || process.env.PORT;
+const  PORT =  process.env.PORT;
 
 // setting up some handels
 
